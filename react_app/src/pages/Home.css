@@ -1,4 +1,40 @@
+.layout-container {
+  display: flex;
+  height: 100vh; /*full height of screen */
+}
+
+.navbar {
+  width: 200px;
+  background-color: #1e1e1e;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.navbar-button {
+  margin-bottom: 10px;
+  padding: 10px;
+  color: white;
+  background-color: #333;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+}
+
+.navbar-button:hover {
+  background-color: #444;
+}
+
+.main-content {
+  flex: 1;
+  padding: 40px;
+  background-color: #f0d1ca;
+  color: white;
+}
+
 .home-header {
   padding: 20px;
   background-color: #1f1f1f;
+  border-radius: 8px;
 }

@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f0f0;
+  padding: 20px;
+  width: 100px;
+}
+
+.navbar-button{
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}

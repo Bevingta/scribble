@@ -1,0 +1,13 @@
+This would be a note taking app with an llm baked in so that things can be queried and talked to.
+Folder structure with some sort of tasks attached to the folders (?)
+How would I host it so that it can have a local llm for the data and a databse
+Local files (?)
+
+
+main page
+to read
+  pdf viewer
+    annotations?
+  notes on readings
+
+
